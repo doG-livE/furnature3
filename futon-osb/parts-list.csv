@@ -1,0 +1,5 @@
+part,qty,length_in,height_in,notes
+rib,3,53.50,10.94,legs + deck supports; tabs up
+deck,2,32.00,25.00,seat deck and back deck are identical
+stretcher,2,31.00,5.00,"front and rear, slots up"
+back-support,1,31.00,15.28,sofa mode only; drops into the rib slots behind the seat
