@@ -1,0 +1,7 @@
+part,qty,length_in,height_in,notes
+seat-rail,2,53.50,11.00,"seat frame side: legs, pivot ear, rear arm"
+back-rail,2,28.75,4.00,back frame side: pivot ear + 3 recline notches
+seat-slat,7,32.00,3.50,"seat deck, on edge, slots down"
+back-slat,7,30.80,3.50,"back deck, on edge, slots down; ends rest on the arms when flat"
+prop,2,23.00,2.00,"adjustable back support, bolts to the seat rail arm"
+3/8 x 2-1/2 carriage bolt + 2 fender washers + nylon lock nut,4,,,"2 seat/back pivots, 2 prop pivots"
